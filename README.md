@@ -1,4 +1,4 @@
-# Mechanical-Department-task-1-
+# Mechanical-Department-Task-1-
 A task for Design and modifying a design of Robot - summer training program at Smart Methods
 
 My aim has been to construct a new robot base similar to the old one, while incorporating some modifications and aesthetic additions. The new base features a cavity designed to house electronic components and motors for controlling the robot's movements.
